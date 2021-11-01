@@ -1,5 +1,5 @@
 import './Footer.css';
-import FooterImg from '../../Assets/Images/footer-img.png';
+import Footerlogo from '../../Assets/Images/footer-img.png';
 
 function Footer() {
     return (
@@ -7,7 +7,7 @@ function Footer() {
             <section className="footor-section">
                 <div className="container">
                     <div className="footer-box-left">
-                        <img className="footer-box-left-img" src={FooterImg} alt="logo picture" width={ 160 } height={ 40 } />
+                        <img className="footer-box-left-img" src={Footerlogo} alt="logo rasmi" width={ 160 } height={ 40 } />
                         <p className="footer-box-left-paragrf">
                             Trafalgar provides progressive, and affordable
                             healthcare, accessible on mobile and online for

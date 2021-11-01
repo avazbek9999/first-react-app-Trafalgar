@@ -1,0 +1,63 @@
+/* healthcare-providers */
+
+.healthcare-providers .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 229px;
+}
+
+.helthcare-providers-right {
+    width: 487px;
+    height: 388px;
+}
+
+.helthcare-providers-headding {
+    width: 452px;
+    height: 112px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+    margin-bottom: 26px;
+}
+
+.helthcare-providers-headding-span {
+    display: block;
+    width: 56px;
+    height: 2px;
+    background: #000000;
+    border-radius: 10px;
+    margin-bottom: 33px;
+}
+
+.helthcare-providers-paragrf {
+    width: 450px;
+    height: 120px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7d7987;
+    margin-bottom: 37px;
+}
+
+.helthcare-providers-link {
+    width: 200px;
+    height: 56px;
+    border: 1.4px solid #458ff6;
+    border-radius: 55px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    color: #458ff6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}

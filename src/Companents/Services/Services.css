@@ -1,0 +1,94 @@
+.our-services .container {
+    text-align: center;
+}
+
+.our-servises-headding {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+    margin-bottom: 26px;
+}
+
+.our-services-span {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 56px;
+    height: 2px;
+    background-color: black;
+    border-radius: 5px;
+    margin-bottom: 33px;
+}
+
+.our-servises-paragrf {
+    display: inline-block;
+    width: 952px;
+    height: 60px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #7d7987;
+    margin-bottom: 80px;
+}
+
+.services-list {
+    margin-bottom: 70px;
+}
+
+.services-list-items {
+    display: inline-block;
+    font-family: Mulish;
+    width: 350px;
+    border-radius: 20px;
+    padding: 0 34px;
+    margin-left: 17px;
+    margin-right: 17px;
+    text-align: left;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.services-list-items-img {
+    margin-top: 56px;
+    margin-bottom: 23px;
+}
+
+.services-list-items-headding {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+    margin-bottom: 7px;
+}
+
+.services-list-items-paragrf {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7d7987;
+}
+
+.services-link {
+    width: 200px;
+    height: 60px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    display: inline-block;
+    border: 1.3px solid #458ff6;
+    border-radius: 55px;
+    color: #458ff6;
+    text-decoration: none;
+    margin-bottom: 220px;
+}

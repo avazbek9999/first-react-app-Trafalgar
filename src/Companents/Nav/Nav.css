@@ -1,0 +1,17 @@
+
+.header-list {
+    display: flex;
+    list-style: none;
+}
+
+.header-lisst-items {
+    margin-left: 40px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #1f1534;
+}
+

@@ -1,0 +1,88 @@
+
+/* costumer-box */
+
+.costomer-box .container {
+    text-align: center;
+    width: 1120px;
+    height: 425px;
+    background: linear-gradient(208.18deg, #67c3f3 9.05%, #5a98f2 76.74%);
+    border-radius: 24px;
+    margin-bottom: 44px;
+}
+
+.costomer-box-header {
+    display: inline-block;
+    width: 522px;
+    height: 48px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    color: #ffffff;
+    margin-top: 61px;
+    margin-bottom: 25px;
+}
+
+.costomer-box-span {
+    display: block;
+    width: 56px;
+    height: 2px;
+    background: #ffffff;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 66px;
+}
+
+.costumers-box-buttom {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: center;
+}
+
+.costumers-box-buttom-paragrf {
+    width: 184px;
+    height: 48px;
+    color: #ffffff;
+    margin-left: 30px;
+}
+
+.costumers-box-buttom-post {
+    width: 420px;
+    height: 120px;
+    margin-left: 110px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.costumer-box-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 227px;
+    width: 400px;
+}
+
+.box-button-list {
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 0;
+}
+
+.box-button-span {
+    display: inline-block;
+    border-radius: 55px;
+    width: 8px;
+    height: 8px;
+    background: #5b9bf3;
+}

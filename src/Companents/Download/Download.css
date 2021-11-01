@@ -1,0 +1,64 @@
+
+/* downlod-apps */
+
+.downlod-apps .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 269px;
+}
+
+.downlod-apps-left-headding {
+    width: 254px;
+    height: 96px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.downlod-apps-left-span {
+    display: block;
+    width: 56px;
+    height: 2px;
+    background: #000000;
+    margin-bottom: 31px;
+}
+
+.downlod-apps-left-paragrf {
+    width: 340px;
+    height: 120px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7d7987;
+    margin-bottom: 40px;
+}
+
+.downlod-apps-left-link {
+    width: 200px;
+    height: 56px;
+    display: flex;
+    border: 1.4px solid#458ff6;
+    border-radius: 55px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    color: #458ff6;
+}
+
+.app-downlod-icon {
+    margin-left: 15px;
+}
